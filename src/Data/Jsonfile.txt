@@ -1,0 +1,4 @@
+Save the data from company profile, user profile and Banking Information in three jason files:
+- CompanyProfile.json
+- UserProfile.json
+- BankingInformation.json
